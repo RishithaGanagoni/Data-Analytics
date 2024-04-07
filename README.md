@@ -1,8 +1,7 @@
 # Data-Analytics
 
 
-## 1
-<h1>Driver injury severity analysis in automobile crashes using Knime </h1>
+## 1. Examining the factors influencing the severity of injuries in Automobile accidents using predictive analytics
 
 ![](/assets/carcrash.jpeg)
 
