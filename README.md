@@ -1,6 +1,5 @@
 # Data-Analytics
 
-
 ## 1. Examining the factors influencing the severity of injuries in Automobile accidents using predictive analytics
 
 Project link
@@ -15,7 +14,15 @@ About this project
 Impact of this project
 - The findings are invaluable for individuals committed to enhancing road safety, as well as for stakeholders in the healthcare, insurance, automotive manufacturing, and various other industries.
 
-## 2. Churn Analytics 
+## 2. Ballot Gambling 
+
+Project link
+- [GitHub](https://github.com/RishithaGanagoni/Data-Analytics/tree/main/Ballot%20Gambling)
+
+Skills
+- Knime |  Data Analysis | Predictive Analytics 
+
+## 3. Churn Analytics 
 
 Project link
 - [GitHub](https://github.com/RishithaGanagoni/Data-Analytics/tree/main/Churn%20Analytics)
@@ -29,10 +36,3 @@ About this project
 Impact of this project
 - The findings hold significant value for individuals focused on recognizing customer churn, as well as for stakeholders in the healthcare, telecommunications, retail, and various other industries.
 
-## 3. Ballot Gambling 
-
-Project link
-- [GitHub](https://github.com/PNaveenVarma/Ballot-Fortunes-Forecasting-County-Stance-on-Legalizing-Gaming)
-
-Skills
-- Knime |  Data Analysis | Predictive Analytics 
