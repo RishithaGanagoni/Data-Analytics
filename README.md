@@ -12,10 +12,10 @@ Skills
 - Knime |  Data Analysis | Predictive Analytics 
 
 About this project
-- This Project examines the risk factors for injury severity in car crashes, Leveraging an authentic crash dataset from the U.S. Department of Transportation, sourced specifically from the National Highway Traffic Safety Administration.
+- This project investigates the factors that increase the severity of injuries in car accidents. It utilizes a genuine crash dataset obtained from the U.S. Department of Transportation, specifically sourced from the National Highway Traffic Safety Administration.
 
 Impact of this project
-- The insights are valuable for anyone dedicated to improving road safety, the Healthcare Industry, the Insurance Industry, the Car Manufacturing Industry, and many more.
+- The findings are invaluable for individuals committed to enhancing road safety, as well as for stakeholders in the healthcare, insurance, automotive manufacturing, and various other industries.
 
 ********************************************************************************************************************************
 ********************************************************************************************************************************
