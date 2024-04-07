@@ -3,8 +3,6 @@
 
 ## 1. Examining the factors influencing the severity of injuries in Automobile accidents using predictive analytics
 
-![](/assets/carcrash.jpeg)
-
 Project link
 [GitHub](https://github.com/RishithaGanagoni/Data-Analytics/tree/main/Examining%20the%20factors%20influencing%20the%20severity%20of%20injuries%20in%20Automobile%20accidents%20using%20predictive%20analytics)
 
@@ -17,14 +15,7 @@ About this project
 Impact of this project
 - The findings are invaluable for individuals committed to enhancing road safety, as well as for stakeholders in the healthcare, insurance, automotive manufacturing, and various other industries.
 
-********************************************************************************************************************************
-********************************************************************************************************************************
-
-
-## 2
-<h1>Customer Churn Prediction using Knime</h1> 
-
-![](/assets/churn.jpeg)
+## 2. Churn Analytics 
 
 Project link
 - <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/Customer-Churn-Prediction)
