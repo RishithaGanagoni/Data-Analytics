@@ -18,27 +18,21 @@ Impact of this project
 ## 2. Churn Analytics 
 
 Project link
-- <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/Customer-Churn-Prediction)
+- [GitHub](https://github.com/RishithaGanagoni/Data-Analytics/tree/main/Churn%20Analytics)
 
 Skills
 - Knime |  Data Analysis | Predictive Analytics 
 
 About this project
-- The primary goal of this project is to develop advanced machine-learning models for predictive insights to identify customer churns. The objective is to scrutinize customer churn by considering socio-demographic and Behavioral attributes.
+- The main aim of this project is to create sophisticated machine learning models to predict and understand customer churn. This involves analyzing customer churn by examining socio-demographic and behavioral characteristics.
 
 Impact of this project
-- The insights are valuable for anyone dedicated to identifying customer churns, the Healthcare Industry, the Telecomm Industry, the Retail Industry, and many more.
+- The findings hold significant value for individuals focused on recognizing customer churn, as well as for stakeholders in the healthcare, telecommunications, retail, and various other industries.
 
-********************************************************************************************************************************
-********************************************************************************************************************************
-
-## 3
-<h1>Ballot Fortunes: Forecasting County Stance on Legalizing Gambling using Knime</h1> 
-
-![](/assets/gambling.jpeg)
+## 3. Ballot Gambling 
 
 Project link
-- <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/Ballot-Fortunes-Forecasting-County-Stance-on-Legalizing-Gaming)
+- [GitHub](https://github.com/PNaveenVarma/Ballot-Fortunes-Forecasting-County-Stance-on-Legalizing-Gaming)
 
 Skills
 - Knime |  Data Analysis | Predictive Analytics 
