@@ -6,7 +6,7 @@
 ![](/assets/carcrash.jpeg)
 
 Project link
-- <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
+[GitHub](https://github.com/RishithaGanagoni/Data-Analytics/tree/main/Examining%20the%20factors%20influencing%20the%20severity%20of%20injuries%20in%20Automobile%20accidents%20using%20predictive%20analytics)
 
 Skills
 - Knime |  Data Analysis | Predictive Analytics 
